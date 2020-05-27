@@ -1,0 +1,10 @@
+C:\Users\Troy\Documents\Coding\C#\Udemy\Matching Pairs\MatchingPairsGame\bin\Debug\MatchingPairsGame.exe.config
+C:\Users\Troy\Documents\Coding\C#\Udemy\Matching Pairs\MatchingPairsGame\bin\Debug\MatchingPairsGame.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\Matching Pairs\MatchingPairsGame\bin\Debug\MatchingPairsGame.pdb
+C:\Users\Troy\Documents\Coding\C#\Udemy\Matching Pairs\MatchingPairsGame\obj\Debug\MatchingPairsGame.csprojAssemblyReference.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\Matching Pairs\MatchingPairsGame\obj\Debug\MatchingPairsGame.Form1.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\Matching Pairs\MatchingPairsGame\obj\Debug\MatchingPairsGame.Properties.Resources.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\Matching Pairs\MatchingPairsGame\obj\Debug\MatchingPairsGame.csproj.GenerateResource.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\Matching Pairs\MatchingPairsGame\obj\Debug\MatchingPairsGame.csproj.CoreCompileInputs.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\Matching Pairs\MatchingPairsGame\obj\Debug\MatchingPairsGame.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\Matching Pairs\MatchingPairsGame\obj\Debug\MatchingPairsGame.pdb
